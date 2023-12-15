@@ -12,6 +12,13 @@ levels."
 Report Generation: "It would be great to generate reports showing what's selling well and what's
 low in stock."
 
+Output:
+
+
+![c779cec9-c86f-4a80-85c1-f8df56736b7c](https://github.com/kimgupta/Invantory-App/assets/113166370/42bb8ae8-5cc7-4db9-8bcb-b15df78d1f0b)
+![1281bc90-bb73-47d1-998e-f50003364a4e](https://github.com/kimgupta/Invantory-App/assets/113166370/2ec169f2-e075-4bf5-a7e9-0963739cc981)
+
+
 Question 2:
 Project 2: Expense Tracker GLITCHES IN OUR RELATIONSHIP
 "I'm a small business owner and struggle to keep tabs on my expenses. Is there a tool you can
@@ -25,3 +32,19 @@ Visualization of Expenses: "It would be helpful to see graphs or charts that vis
 spending patterns."
 Reminder System: "Can the tool remind me when certain bills are due or when I'm approaching
 my budget limits?”
+
+
+Output:
+
+
+
+
+
+![24e2fa60-168f-4ea5-a8db-3b1429f1c131](https://github.com/kimgupta/Invantory-App/assets/113166370/75e2139c-6aee-4311-8a4c-e7fe7c1dd0e5)
+
+
+
+
+
+
+
